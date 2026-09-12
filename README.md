@@ -1,4 +1,5 @@
 # 📩 RNN SMS Spam Classifier
+https://github.com/user-attachments/assets/2c7c8a85-8ca2-4dfd-8da3-f7a09587b4a3
 
 An end-to-end **Deep Learning project for SMS spam detection** using a **Recurrent Neural Network (RNN)**. The system processes SMS text, converts it into numerical sequences, and classifies messages as **Spam** or **Not Spam**.
 
@@ -331,10 +332,10 @@ Aspiring **Data Science & Machine Learning professional** interested in building
 
 ---
 
-## ⭐ Support
+
 
 If you find this project useful, consider giving the repository a ⭐ on GitHub.
 
 
-https://github.com/user-attachments/assets/2c7c8a85-8ca2-4dfd-8da3-f7a09587b4a3
+
 
